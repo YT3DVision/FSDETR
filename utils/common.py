@@ -4,7 +4,7 @@ from typing import Dict, Tuple
 
 import torch
 
-from FSDETR.losses.loss import RTDETRDetectionLoss
+from losses.loss import RTDETRDetectionLoss
 
 
 def build_criterion(num_classes: int) -> RTDETRDetectionLoss:

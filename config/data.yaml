@@ -1,0 +1,21 @@
+# Example YOLO-format data config
+# path: root directory of the dataset
+# train/val: image directories or txt file lists
+# labels are expected under a parallel labels/ directory
+
+path: E:/your_dataset/visdrone_dataset
+train: images/train
+val: images/val
+# test: images/test
+
+names:
+  0: pedestrian
+  1: people
+  2: bicycle
+  3: car
+  4: van
+  5: truck
+  6: tricycle
+  7: awning-tricycle
+  8: bus
+  9: motor

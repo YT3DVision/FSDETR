@@ -1,11 +1,11 @@
 import torch
 import torch.nn as nn
 
-from FSDETR.modules.conv import Conv
-from FSDETR.modules.block import C2f, RepC3
-from FSDETR.modules.custom_block import SPDConv, SNI, CFSB, SHAB
-from FSDETR.modules.custom_transformer import DA_AIFI
-from FSDETR.modules.head import RTDETRDecoder
+from modules.conv import Conv
+from modules.block import C2f, RepC3
+from modules.custom_block import SPDConv, SNI, CFSB, SHAB
+from modules.custom_transformer import DA_AIFI
+from modules.head import RTDETRDecoder
 
 
 class FSDETRModel(nn.Module):
