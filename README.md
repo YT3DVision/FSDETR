@@ -6,16 +6,7 @@
 ## Proceeding
 This paper has been accepted by IJCNN 2026. The paper link is: https://arxiv.org/abs/2604.14884 and https://ieeexplore.ieee.org/document/11729161/
 
-@INPROCEEDINGS{11729161,
-  author={Huang, Jianchao and Zhang, Fengming and Zhu, Haibo and Yan, Tao},
-  booktitle={2026 International Joint Conference on Neural Networks (IJCNN)}, 
-  title={FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection}, 
-  year={2026},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Modeling;Printing;Object detection;Frequency;Conferences;Computers;Design methodology;Signal detection;Computer vision;Distance measurement;Small object detection;Feature pyramid;Frequency–spatial feature enhancement;RT-DETR},
-  doi={10.1109/IJCNN69854.2026.11729161}}
+Jianchao Huang, Fengming Zhang, Haibo Zhu and Tao Yan, "FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection," 2026 International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026, pp. 1-6, doi: 10.1109/IJCNN69854.2026.11729161.
 
 
 
