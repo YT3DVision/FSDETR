@@ -7,7 +7,7 @@
 
 Jianchao Huang, Fengming Zhang, Haibo Zhu and Tao Yan, "FSDETR: Frequency-Spatial Feature Enhancement for Small Object Detection," 2026 International Joint Conference on Neural Networks (IJCNN), Maastricht, Netherlands, 2026, pp. 1-6, doi: 10.1109/IJCNN69854.2026.11729161.
 
-This paper has been accepted by IJCNN 2026. The paper link is: https://arxiv.org/abs/2604.14884 and https://ieeexplore.ieee.org/document/11729161/
+The paper link is: https://arxiv.org/abs/2604.14884 and https://ieeexplore.ieee.org/document/11729161/
 
 ## Network Architecture
 ![architecture](images/architecture.png)
